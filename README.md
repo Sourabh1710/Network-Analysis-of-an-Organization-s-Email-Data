@@ -19,7 +19,7 @@ This graph visualizes the 150 most central members of the largest communication 
 *   **Labels:** Displayed for the top 15 most central individuals in this subgraph.
 *   **Structure:** The layout reveals a dense, interconnected "core" of key players surrounded by a periphery of less connected members.
 
-![Enron Network Visualization](enron_network_visualization.png)
+![Enron Network Visualization](https://github.com/Sourabh1710/Network-Analysis-of-an-Organization-s-Email-Data/blob/main/enron_network_visualization.png)
 
 ---
 
